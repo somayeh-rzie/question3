@@ -16,4 +16,4 @@ some basic git commands
 `git push origin master` <br />
 `git rm --cached file.env` <br />
 `git commit --amend-CHEAD--allow.empty` <br />
-`git push origin master``
+`git push origin master`
